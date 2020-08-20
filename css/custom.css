@@ -1,0 +1,17 @@
+/* You can customize theme styles here */
+
+.experience__company, .education__date {
+    color:#f38620;
+}
+
+::selection {
+  color: white;
+  background: #f38620;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: #f38620;
+}
+
+
