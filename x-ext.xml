@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rss [ <!ENTITY zk SYSTEM "https://nghttp2.org/httpbin/base64/WktFWFRPSw=="> ]>
-<rss version="2.0"><channel><title>ZKFEED</title><link>https://bozellqp.github.io/</link><description>zk</description>
-<item><title>ZKI&zk;</title><link>https://bozellqp.github.io/p1.html</link><description>ZKD&zk;</description>
-<guid>https://bozellqp.github.io/p1.html</guid><enclosure url="https://bozellqp.github.io/img/clients/abbott.png" type="image/png"/>
-</item></channel></rss>
