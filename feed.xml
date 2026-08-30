@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-<channel><title>ZKFEED</title><link>https://bozellqp.github.io/</link><description>zk control feed</description>
-<item><title>ZKITEM1</title><link>https://bozellqp.github.io/post1.html</link>
-<description>zk control item</description><guid>https://bozellqp.github.io/post1.html</guid>
-<pubDate>Mon, 25 Aug 2026 10:00:00 GMT</pubDate>
-<media:content url="https://bozellqp.github.io/img/clients/abbott.png" medium="image"/>
-<enclosure url="https://bozellqp.github.io/img/clients/abbott.png" type="image/png"/>
-</item></channel></rss>
